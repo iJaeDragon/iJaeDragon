@@ -4,7 +4,7 @@
 
 <div align="left">    
     <div align="center">
-        hi, there
+        <hr/>
     </div>
 </div>
 
