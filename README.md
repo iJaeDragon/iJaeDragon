@@ -10,8 +10,6 @@
 
 <div align="center">
 
-   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijaedragon)](https://solved.ac/ijaedragon/) 
-
    <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
 <br>
 
