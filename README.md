@@ -22,7 +22,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=345"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=346"/>
   
   ### 🛠 SKILL 🛠
  
