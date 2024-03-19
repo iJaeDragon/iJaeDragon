@@ -39,6 +39,8 @@
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"> <img src="https://img.shields.io/badge/-React Native-61DAFB?style=flat-square&logoColor=white">
 <br>
   <img src="https://img.shields.io/badge/-Android Studio-34A853?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<br>
+  <img src="https://img.shields.io/badge/-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white">
   
 <!--<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <br>
