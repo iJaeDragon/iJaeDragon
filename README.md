@@ -10,9 +10,9 @@
 
 <div align="right">
 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijaedragon)](https://solved.ac/ijaedragon/) 
+   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijaedragon)](https://solved.ac/ijaedragon/) 
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=350)](https://github.com/iJaeDragon?tab=repositories)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=350)](https://github.com/iJaeDragon?tab=repositories)
     
 </div> 
  
