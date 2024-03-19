@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ijaedragon"/>
   
 ## 👋 JEONG UM 👋 
   
@@ -25,7 +25,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=350"/>
   
   ### 🛠 SKILL 🛠
  
