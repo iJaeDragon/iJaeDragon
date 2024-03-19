@@ -26,7 +26,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=348"/>
   
   ### 🛠 SKILL 🛠
-  <img src="https://img.shields.io/badge/-IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white">
+  <img src="https://img.shields.io/badge/-JetBrains Tools-000000?style=flat-square&logo=jetbrains&logoColor=white">
  <br>
   <img src="https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=Gradle"/>
 <br>
