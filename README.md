@@ -2,19 +2,6 @@
 
 <div align="center">
   
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ijaedragon"/>
-  
-### 👋 Hi 👋 
-
-  <br>
- 
-</div>
-
- <br>
- <br>
-
-<div align="center">
-  
   ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/-JetBrains Tools-000000?style=flat-square&logo=jetbrains&logoColor=white">
  <br>
@@ -31,12 +18,6 @@
   <img src="https://img.shields.io/badge/-Android Studio-34A853?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <br>
   <img src="https://img.shields.io/badge/-OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white">
-  
-<!--<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> -->
 
   <br>
  
