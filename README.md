@@ -15,8 +15,6 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iJaeDragon&langs_count=16&layout=compact&theme=dark&card_width=348"/>
-  
   ### 🛠 SKILL 🛠
   <img src="https://img.shields.io/badge/-JetBrains Tools-000000?style=flat-square&logo=jetbrains&logoColor=white">
  <br>
